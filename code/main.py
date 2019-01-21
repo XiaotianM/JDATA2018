@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# author：Cookly, ShawnMa
+# author：ShawnMa, Cookly
 from util import DataLoader, Features
 from SBBTree_ONLINE import SBBTree
 import pandas as pd 
